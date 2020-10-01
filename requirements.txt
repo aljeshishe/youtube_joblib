@@ -1,0 +1,8 @@
+joblib==0.16.0
+pytube3==9.6.4
+requests_cache
+sox==1.4.1
+pydevd-pycharm==193.5662.61
+pysrt==1.1.2
+wandb==0.10.4
+google-cloud-storage==1.29.0
